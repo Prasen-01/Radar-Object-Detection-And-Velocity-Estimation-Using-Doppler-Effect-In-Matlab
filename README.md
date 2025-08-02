@@ -1,0 +1,2 @@
+# Radar-Object-Detection-And-Velocity-Estimation-Using-Doppler-Effect-In-Matlab
+We designed a MATLAB simulation of a Continuous Wave (CW) radar system to estimate a moving object’s velocity using the Doppler effect. The system transmits a high-frequency signal, receives its reflection, and uses FFT to analyze the Doppler shift and calculate speed, demonstrating core radar signal processing principles.
